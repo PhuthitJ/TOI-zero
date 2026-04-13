@@ -1,3 +1,5 @@
+# Haven't fixed yet.
+
 N, L = map(int, input().split())
 H = list(map(int, input().split()))
 A = [0] + list(map(int, input().split()))
