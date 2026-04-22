@@ -1,3 +1,5 @@
+# 40/100, bad logic.
+
 n, d = map(int, input().split())
 
 hashtag = {

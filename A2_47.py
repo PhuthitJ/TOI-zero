@@ -1,3 +1,5 @@
+# Condition Number in Text is wrong.
+
 n = int(input())
 texts = []
 for _ in range(n):
